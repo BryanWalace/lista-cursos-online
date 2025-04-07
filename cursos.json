@@ -1,0 +1,30 @@
+[
+    {
+        "id": "1",
+        "titulo": "Curso de PHP",
+        "imagem": "https:\/\/via.placeholder.com\/150",
+        "categoria": "Programa\u00e7\u00e3o",
+        "descricao": "Aprenda PHP do zero com exemplos pr\u00e1ticos e did\u00e1ticos."
+    },
+    {
+        "id": "2",
+        "titulo": "Curso de HTML",
+        "imagem": "https:\/\/via.placeholder.com\/150",
+        "categoria": "Web Design",
+        "descricao": "Crie sites com HTML e CSS, mesmo sem experi\u00eancia pr\u00e9via."
+    },
+    {
+        "id": "67f36948bfd1d",
+        "titulo": "bbb",
+        "imagem": "https:\/\/imgur.com\/itD1ZYH",
+        "categoria": "Marketing",
+        "descricao": "bbb"
+    },
+    {
+        "id": "67f36a156dc46",
+        "titulo": "adsasd",
+        "imagem": "https:\/\/imgur.com\/itD1ZYH",
+        "categoria": "Fotografia",
+        "descricao": "sdasdasd"
+    }
+]
