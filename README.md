@@ -38,4 +38,4 @@ Este projeto é um sistema simples de catálogo online dinâmico, onde os usuár
 1. Clone o repositório ou baixe os arquivos.
 
    ```bash
-   git clone https://github.com/seuusuario/lista-cursos-online.git
+   git clone https://github.com/BryanWalace/lista-cursos-online.git
